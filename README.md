@@ -1,0 +1,1 @@
+This program takes the number portion of a game link from HowLongToBeat.com in order to get from the site how long it takes to beat a game in all four categories. The user can repeat this process for as long as they want. At the end, all the information is printed onto an excel file, including the times for each individual category all added up.
